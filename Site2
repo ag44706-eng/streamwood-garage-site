@@ -12,9 +12,13 @@ export default function GarageDoorSite() {
           </p>
 
           <div className="flex flex-wrap gap-4">
-            <button className="bg-black text-white px-6 py-3 rounded-2xl text-lg shadow hover:opacity-90">
-              Call Now
-            </button>
+            <a
+              href="tel:2242454738"
+              className="bg-black text-white px-6 py-3 rounded-2xl text-lg shadow hover:opacity-90"
+            >
+              Call or Text Now
+              </a>
+            </div>
             <button className="border border-gray-300 px-6 py-3 rounded-2xl text-lg hover:bg-gray-50">
               Get a Quote
             </button>
