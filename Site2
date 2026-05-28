@@ -8,6 +8,11 @@ export default function GarageDoorSite() {
             Garage Door Tune-Ups & Maintenance
           </h1>
           <p className="text-xl text-gray-700 max-w-2xl mb-8">
+            <img
+              src="/garage1.jpg"
+              alt="Garage door maintenance work"
+              className="rounded-2xl mt-6"
+          />
             Local garage door maintenance service helping homeowners keep their doors quiet, smooth, and safe.
           </p>
 
