@@ -8,7 +8,7 @@ export default function GarageDoorSite() {
             Garage Door Tune-Ups & Maintenance
           </h1>
           <p className="text-xl text-gray-700 max-w-2xl mb-8">
-            <img
+          <img
               src="/image1.png"
               alt="Garage door maintenance work"
               className="rounded-2xl mt-6"
