@@ -18,9 +18,9 @@ return ( <div className="min-h-screen bg-white text-gray-900">
       </p>
 
       <img
-        src="/image1.png"
+        src="/forester.png"
         alt="Garage door maintenance work"
-        className="rounded-2xl mb-10 w-full object-cover shadow-lg"
+        className="rounded-2xl mt-6"
       />
 
       <div className="flex flex-wrap gap-4">
